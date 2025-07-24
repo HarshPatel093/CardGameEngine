@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build output
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.exe
+*.idb
+*.ipch
+*.ilk
+*.tlog
+*.log
+
+# Other
+*.cache
+*.sdf
+*.opensdf
+*.tmp
+*.bak
+CMakeFiles/
+CMakeCache.txt
+GeneratedFiles/
