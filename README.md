@@ -23,13 +23,13 @@ The game demonstrates:
 Here are some example screenshots of a few turns:
 
 ### Game Start and First Turns
-![Sample Output 1](assets/Sample%20Output%201.png)
+![Sample Output 1](assets/SampleOutput1.png)
 
 ### Mid-game Play
-![Sample Output 2](assets/Sample%20Output%202.png)
+![Sample Output 2](assets/SampleOutput2.png)
 
 ### Special Card Effects and Decision Prompts
-![Sample Output 3](assets/Sample%20Output%203.png)
+![Sample Output 3](assets/SampleOutput3.png)
 
 ## 🧩 How to Run
 
